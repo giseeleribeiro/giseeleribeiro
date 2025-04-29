@@ -1,4 +1,4 @@
 Hi! I'm Gisele 👋  
-Software Engineering student passionate about AI.
+Software Engineering student.
 
 🌐 [LinkedIn](https://www.linkedin.com/in/gisele-ribeiro-5466ab177/)
